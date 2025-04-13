@@ -1,5 +1,4 @@
 import React from "react";
-import "./Header.css";
 
 function Header() {
   return (
@@ -84,12 +83,12 @@ function Header() {
 
               <li className="nav-item d-none d-md-block">
                 <a className="nav-link" href="#">
-                  <i className="fa-solid fa-magnifying-glass icon-white"></i>
+                  <i className="fa-solid fa-magnifying-glass white-icon"></i>
                 </a>
               </li>
               <li className="nav-item d-none d-md-block">
                 <a className="nav-link" href="#">
-                  <i className="fa-regular fa-bookmark icon-white"></i>
+                  <i className="fa-regular fa-bookmark white-icon"></i>
                 </a>
               </li>
             </ul>
