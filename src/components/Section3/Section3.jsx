@@ -1,5 +1,6 @@
 import React from "react";
-import watchLogo from "../assets/icon/watch-logo.png";
+import "./Section3.css";
+import watchLogo from "../../assets/icon/watch-logo.png";
 
 function Section3() {
   return (

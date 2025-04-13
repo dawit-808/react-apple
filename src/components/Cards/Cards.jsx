@@ -1,8 +1,9 @@
 import React from "react";
-import tvLogo from "../assets/icon/tv-logo.png";
-import baseBall from "../assets/icon/baseball-logo.png";
-import tradeLogo from "../assets/icon/trade-logo.png";
-import cardLogo from "../assets/icon/card-logo.png";
+import "./Cards.css";
+import tvLogo from "../../assets/icon/tv-logo.png";
+import baseBall from "../../assets/icon/baseball-logo.png";
+import tradeLogo from "../../assets/icon/trade-logo.png";
+import cardLogo from "../../assets/icon/card-logo.png";
 
 function Cards() {
   return (
