@@ -1,12 +1,12 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./styles/global.css";
 import Header from "./components/Header";
+import Section1 from "./components/Section1";
 
 function App() {
   return (
     <div>
       <Header />
+      <Section1 />
     </div>
   );
 }
