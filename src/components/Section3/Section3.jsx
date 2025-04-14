@@ -10,7 +10,7 @@ function Section3() {
           <div className="watch-logo">
             <img className="img-fluid" src={watchLogo} alt="" />
           </div>
-          <p>Live healthier. Train better. Stay connected</p>
+          <h6>Live healthier. Train better. Stay connected</h6>
           <div className="links">
             <button className="btn btn-primary rounded-pill px-3" type="button">
               Learn more
