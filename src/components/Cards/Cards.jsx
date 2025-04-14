@@ -8,7 +8,7 @@ import cardLogo from "../../assets/icon/card-logo.png";
 function Cards() {
   return (
     <div>
-      <div className="crads container-fluid p-0">
+      <div className="cards container-fluid p-0">
         <div className="row g-2 m-0">
           <div className="col-12 col-md-6">
             <div className="border-0 card card1 d-flex flex-column justify-content-end">
