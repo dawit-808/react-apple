@@ -3,7 +3,7 @@ import "./Section1.css";
 
 function Section1() {
   return (
-    <div>
+    <>
       <section className="section1 d-flex flex-column justify-content-end justify-content-md-start">
         <div className="descriptions container text-center text-white">
           <h1>iPhone 16 Pro</h1>
@@ -21,7 +21,7 @@ function Section1() {
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }
 

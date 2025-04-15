@@ -3,7 +3,7 @@ import "./Section2.css";
 
 function Section2() {
   return (
-    <div>
+    <>
       <section className="section2 p-5">
         <div className="descriptions container text-center text-white">
           <h1>iPhone 16</h1>
@@ -21,7 +21,7 @@ function Section2() {
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }
 

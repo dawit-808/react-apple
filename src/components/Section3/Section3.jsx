@@ -4,7 +4,7 @@ import watchLogo from "../../assets/icon/watch-logo.png";
 
 function Section3() {
   return (
-    <div>
+    <>
       <section className="section3 p-5">
         <div className="descriptions container text-center text-dark mt-5 mt-md-0">
           <div className="watch-logo">
@@ -24,7 +24,7 @@ function Section3() {
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }
 

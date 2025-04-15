@@ -7,7 +7,7 @@ import cardLogo from "../../assets/icon/card-logo.png";
 
 function Cards() {
   return (
-    <div>
+    <>
       <div className="cards container-fluid p-0">
         <div className="row g-2 m-0">
           <div className="col-12 col-md-6">
@@ -180,7 +180,7 @@ function Cards() {
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 

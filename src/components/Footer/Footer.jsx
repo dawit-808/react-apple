@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div>
+    <>
       <footer className="footer-wrapper">
         <div className="container">
           <div className="upper-text-container">
@@ -290,7 +290,7 @@ function Footer() {
           </div>
         </div>
       </footer>
-    </div>
+    </>
   );
 }
 
